@@ -1,3 +1,7 @@
 s="hello"
 t="world"
-print(s,t)
+if(t>s):
+  print("hello")
+else:
+  print("world")
+
