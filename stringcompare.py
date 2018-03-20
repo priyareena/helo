@@ -1,3 +1,3 @@
-s="hello"
-t="world"
+s="hai"
+t="guvi"
 print(s,t)
